@@ -1,3 +1,5 @@
 public class server {
-	public static voide main(string) {}
+	public static voide main(string) {
+	updadt server.java
+	}
 }
